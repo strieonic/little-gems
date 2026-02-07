@@ -119,7 +119,7 @@ body {
       rgba(2, 15, 40, 0.75),
       rgba(2, 15, 40, 0.75)
     ),
-    url("/assets/hero-bg-B0sHgBEX.jpg");
+    url("/little-gems/assets/hero-bg-B0sHgBEX.jpg");
 
   background-size: cover;
   background-position: center;
@@ -984,3 +984,4 @@ body {
 .future-card:hover {
   transform: translateY(-10px);
 }
+
